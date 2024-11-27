@@ -1,2 +1,2 @@
-# cCRIANDO-UMA-AVENTURA
+#CRIANDO-UMA-AVENTURA
 desenvolvido pelo aluraStar
